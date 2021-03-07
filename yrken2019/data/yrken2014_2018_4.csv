@@ -1,0 +1,431 @@
+"Yrke (SSYK 2012)","kön","2014","2015","2016","2017","2018"
+"0110 Officerare","kvinnor",51,106,104,79,79
+"0210 Specialistofficerare","kvinnor",160,91,79,59,54
+"0310 Soldater m.fl.","kvinnor",691,653,625,585,534
+"1111 Politiker","kvinnor",187,174,178,178,237
+"1112 General-, landstings- och kommundirektörer m.fl.","kvinnor",1224,1175,1196,1197,689
+"1113 Chefstjänstemän i intresseorganisationer","kvinnor",329,327,452,498,476
+"1120 Verkställande direktörer m.fl.","kvinnor",3579,3665,3988,3811,3730
+"1211 Ekonomi- och finanschefer, nivå 1","kvinnor",3490,3477,3354,3099,3124
+"1212 Ekonomi- och finanschefer, nivå 2","kvinnor",5263,5446,5741,6570,6640
+"1221 Personal- och HR-chefer, nivå 1","kvinnor",2396,2406,2391,2369,2505
+"1222 Personal- och HR-chefer, nivå 2","kvinnor",2375,2342,2624,3056,3368
+"1230 Förvaltnings- och planeringschefer","kvinnor",3758,3653,3952,4464,4137
+"1241 Informations-, kommunikations- och PR-chefer, nivå 1","kvinnor",853,869,879,920,1015
+"1242 Informations-, kommunikations - och PR-chefer, nivå 2","kvinnor",1028,1050,1194,1371,1498
+"1251 Försäljnings- och marknadschefer, nivå 1","kvinnor",3405,3393,3315,3375,3467
+"1252 Försäljnings- och marknadschefer, nivå 2","kvinnor",5159,5291,4565,4998,5235
+"1291 Övriga administrations- och servicechefer, nivå 1","kvinnor",2478,2533,2819,2673,2919
+"1292 Övriga administrations- och servicechefer, nivå 2","kvinnor",5002,5296,5961,6698,7656
+"1311 IT-chefer, nivå 1","kvinnor",1276,1014,777,742,822
+"1312 IT-chefer, nivå 2","kvinnor",1531,1857,1553,1691,1729
+"1321 Inköps-, logistik- och transportchefer, nivå 1","kvinnor",786,836,816,826,840
+"1322 Inköps-, logistik- och transportchefer, nivå 2","kvinnor",1404,1476,1534,1680,1737
+"1331 Forsknings- och utvecklingschefer, nivå 1","kvinnor",535,603,678,704,639
+"1332 Forsknings- och utvecklingschefer, nivå 2","kvinnor",755,845,1006,1077,1103
+"1341 Chefer inom arkitekt- och ingenjörsverksamhet, nivå 1","kvinnor",716,766,738,762,876
+"1342 Chefer inom arkitekt- och ingenjörsverksamhet, nivå 2","kvinnor",1368,1495,1630,1929,2217
+"1351 Fastighets- och förvaltningschefer, nivå 1","kvinnor",96,113,176,161,155
+"1352 Fastighets- och förvaltningschefer, nivå 2","kvinnor",536,585,665,697,744
+"1361 Driftchefer inom bygg, anläggning och gruva, nivå 1","kvinnor",348,347,392,464,456
+"1362 Driftchefer inom bygg, anläggning och gruva, nivå 2","kvinnor",853,917,889,1123,1047
+"1371 Produktionschefer inom tillverkning, nivå 1","kvinnor",630,715,673,633,686
+"1372 Produktionschefer inom tillverkning, nivå 2","kvinnor",1329,1448,1526,1673,1796
+"1380 Förvaltare inom skogsbruk och lantbruk m.fl.","kvinnor",60,77,79,85,103
+"1411 Avdelningschefer inom grund- och gymnasieskola samt vuxenutbildning, nivå 1","kvinnor",480,484,491,471,490
+"1412 Rektorer, nivå 2","kvinnor",5741,5914,6106,6489,6696
+"1421 Avdelningschefer inom förskola, nivå 1","kvinnor",1042,484,374,338,336
+"1422 Förskolechefer, nivå 2","kvinnor",2579,3267,3738,3876,4096
+"1491 Övriga avdelningschefer inom utbildning, nivå 1","kvinnor",58,60,66,83,77
+"1492 Övriga verksamhetschefer inom utbildning, nivå 2","kvinnor",327,353,442,491,510
+"1511 Klinik- och verksamhetschefer inom hälsa och sjukvård, nivå 1","kvinnor",1831,2033,1945,1747,1885
+"1512 Avdelnings- och enhetschefer inom hälsa och sjukvård, nivå 2","kvinnor",6224,6472,7172,7551,7987
+"1521 Avdelningschefer inom socialt och kurativt arbete, nivå 1","kvinnor",658,643,658,813,851
+"1522 Enhetschefer inom socialt och kurativt arbete, nivå 2","kvinnor",2049,2283,2767,2891,2916
+"1531 Avdelningschefer inom äldreomsorg, nivå 1","kvinnor",809,809,795,781,789
+"1532 Enhetschefer inom äldreomsorg, nivå 2","kvinnor",6956,7139,7598,7639,7640
+"1540 Chefer och ledare inom trossamfund","kvinnor",244,254,239,246,241
+"1591 Övriga chefer inom samhällsservice, nivå 1","kvinnor",2280,2259,2169,2176,2150
+"1592 Övriga verksamhetschefer inom samhällsservice, nivå 2","kvinnor",5124,5419,5813,6380,6336
+"1611 Chefer inom bank, finans och försäkring, nivå 1","kvinnor",496,555,536,515,533
+"1612 Chefer inom bank, finans och försäkring, nivå 2","kvinnor",1973,1965,1778,1690,1681
+"1711 Hotell- och konferenschefer, nivå 1","kvinnor",270,289,364,288,268
+"1712 Hotell- och konferenschefer, nivå 2","kvinnor",436,453,557,696,691
+"1721 Restaurang- och kökschefer, nivå 1","kvinnor",1000,1040,1137,933,900
+"1722 Restaurang- och kökschefer, nivå 2","kvinnor",1548,1708,1822,2134,2189
+"1731 Chefer inom handel, nivå 1","kvinnor",597,556,588,529,572
+"1732 Chefer inom handel, nivå 2","kvinnor",2285,2441,2600,2604,2600
+"1741 Chefer inom friskvård, sport och fritid, nivå 1","kvinnor",28,30,43,45,49
+"1742 Chefer inom friskvård, sport och fritid, nivå 2","kvinnor",306,305,537,632,645
+"1791 Chefer inom övrig servicenäring, nivå 1","kvinnor",362,428,385,373,368
+"1792 Chefer inom övrig servicenäring, nivå 2","kvinnor",1674,1882,1961,1997,2068
+"2111 Fysiker och astronomer","kvinnor",401,419,434,442,455
+"2112 Meteorologer","kvinnor",67,69,79,79,87
+"2113 Kemister","kvinnor",1495,1594,1584,1573,1590
+"2114 Geologer och geofysiker m.fl.","kvinnor",398,414,462,492,543
+"2121 Matematiker och aktuarier","kvinnor",197,200,204,220,226
+"2122 Statistiker","kvinnor",585,580,623,711,733
+"2131 Cell- och molekylärbiologer m.fl.","kvinnor",681,737,739,764,771
+"2132 Växt- och djurbiologer","kvinnor",415,412,381,388,439
+"2133 Farmakologer och biomedicinare","kvinnor",977,1001,1024,975,1113
+"2134 Specialister och rådgivare inom lantbruk m.m.","kvinnor",489,490,505,545,560
+"2135 Specialister och rådgivare inom skogsbruk","kvinnor",362,361,357,364,425
+"2141 Civilingenjörsyrken inom logistik och produktionsplanering","kvinnor",1148,1168,1401,1454,1641
+"2142 Civilingenjörsyrken inom bygg och anläggning","kvinnor",2653,2826,3415,3824,4050
+"2143 Civilingenjörsyrken inom elektroteknik","kvinnor",4094,4333,4266,3734,4225
+"2144 Civilingenjörsyrken inom maskinteknik","kvinnor",3050,3285,3301,4030,4273
+"2145 Civilingenjörsyrken inom kemi och kemiteknik","kvinnor",2185,2259,2313,2751,2377
+"2146 Civilingenjörsyrken inom gruvteknik och metallurgi","kvinnor",194,197,156,197,157
+"2149 Övriga civilingenjörsyrken","kvinnor",5346,5358,5874,6485,7030
+"2161 Arkitekter m.fl.","kvinnor",2490,2589,3078,3469,3736
+"2162 Landskapsarkitekter","kvinnor",692,753,853,943,595
+"2163 Planeringsarkitekter m.fl.","kvinnor",1646,1775,1861,1986,1962
+"2164 Lantmätare","kvinnor",406,420,371,410,503
+"2171 Industridesigner","kvinnor",466,603,700,743,640
+"2172 Grafisk formgivare m.fl.","kvinnor",3210,3353,3409,3511,3534
+"2173 Designer inom spel och digitala medier","kvinnor",456,500,588,732,816
+"2179 Övriga designer och formgivare","kvinnor",1603,1457,1553,1753,1851
+"2181 Arbetsmiljöingenjörer, yrkes- och miljöhygieniker","kvinnor",726,602,701,748,752
+"2182 Miljö- och hälsoskyddsinspektörer","kvinnor",2356,2378,2492,2677,2800
+"2183 Specialister inom miljöskydd och miljöteknik","kvinnor",1153,1205,1446,1662,1880
+"2211 Specialistläkare","kvinnor",10477,10809,10613,10917,11926
+"2212 ST-läkare","kvinnor",4402,4626,5222,5395,5630
+"2213 AT-läkare","kvinnor",1335,1330,1672,1723,1727
+"2219 Övriga läkare","kvinnor",2874,2519,2678,2739,2684
+"2221 Grundutbildade sjuksköterskor","kvinnor",40289,39881,40828,41161,42151
+"2222 Barnmorskor","kvinnor",5844,5743,5854,5905,5919
+"2223 Anestesisjuksköterskor","kvinnor",2578,2491,2546,2572,2599
+"2224 Distriktssköterskor","kvinnor",8112,7839,7631,7438,7257
+"2225 Psykiatrisjuksköterskor","kvinnor",3118,3129,3244,3207,2683
+"2226 Ambulanssjuksköterskor m.fl.","kvinnor",1086,1091,1113,1178,1175
+"2227 Geriatriksjuksköterskor","kvinnor",9725,9440,9748,9647,9058
+"2228 Intensivvårdssjuksköterskor","kvinnor",3263,3110,3188,3057,3092
+"2231 Operationssjuksköterskor","kvinnor",2866,2700,2898,2861,2863
+"2232 Barnsjuksköterskor","kvinnor",3462,3537,3627,3816,3562
+"2233 Skolsköterskor","kvinnor",2924,2968,3251,3353,3444
+"2234 Företagssköterskor","kvinnor",881,836,805,757,716
+"2235 Röntgensjuksköterskor","kvinnor",2616,2573,2611,2564,2529
+"2239 Övriga specialistsjuksköterskor","kvinnor",6738,6871,6927,7075,7311
+"2241 Psykologer","kvinnor",5600,5411,5792,5958,6115
+"2242 Psykoterapeuter","kvinnor",236,481,545,620,664
+"2250 Veterinärer","kvinnor",1619,1689,1802,1900,2017
+"2260 Tandläkare","kvinnor",3519,3606,3769,3895,3998
+"2271 Kiropraktorer och naprapater m.fl.","kvinnor",168,171,195,235,291
+"2272 Sjukgymnaster","kvinnor",7961,7985,8359,8446,8534
+"2273 Arbetsterapeuter","kvinnor",7790,7736,7955,7903,7933
+"2281 Apotekare","kvinnor",1600,1724,2567,2801,3205
+"2282 Dietister","kvinnor",971,1015,1080,1114,1134
+"2283 Audionomer och logopeder","kvinnor",2239,2272,2405,2461,2538
+"2284 Optiker","kvinnor",1204,1295,1328,1364,1345
+"2289 Övriga specialister inom hälso- och sjukvård","kvinnor",701,754,875,1106,803
+"2311 Professorer","kvinnor",2137,2457,2393,1424,1434
+"2312 Universitets- och högskolelektorer","kvinnor",3539,3707,3674,4638,4796
+"2313 Forskarassistenter m.fl.","kvinnor",569,516,619,1621,1645
+"2314 Doktorander","kvinnor",5964,5974,5766,4302,4378
+"2319 Övriga universitets- och högskollärare","kvinnor",3782,3681,3791,4561,4733
+"2320 Lärare i yrkesämnen","kvinnor",4461,4450,4500,4567,4389
+"2330 Gymnasielärare","kvinnor",16538,16534,17441,17333,17790
+"2341 Grundskollärare","kvinnor",71463,72102,75707,77482,79165
+"2342 Fritidspedagoger","kvinnor",12911,12836,12768,12536,12224
+"2343 Förskollärare","kvinnor",68179,67374,67834,67493,66253
+"2351 Speciallärare och specialpedagoger m.fl.","kvinnor",11043,11055,11386,11466,11664
+"2352 Studie- och yrkesvägledare","kvinnor",3570,3623,3676,3779,3902
+"2359 Övriga pedagoger med teoretisk specialistkompetens","kvinnor",9605,10001,10933,11906,11614
+"2411 Revisorer m.fl.","kvinnor",8185,7917,7393,7365,7494
+"2412 Controller","kvinnor",5164,5505,6042,6698,11179
+"2413 Finansanalytiker och investeringsrådgivare m.fl.","kvinnor",1357,1396,1695,1767,1970
+"2414 Traders och fondförvaltare","kvinnor",964,886,630,589,602
+"2415 Nationalekonomer och makroanalytiker m.fl.","kvinnor",583,595,606,599,621
+"2419 Övriga ekonomer","kvinnor",8114,8337,8621,9006,5337
+"2421 Lednings- och organisationsutvecklare","kvinnor",6936,6902,7797,8537,15787
+"2422 Planerare och utredare m.fl.","kvinnor",36109,37594,41294,43551,38846
+"2423 Personal- och HR-specialister","kvinnor",11917,12448,13898,14791,16078
+"2431 Marknadsanalytiker och marknadsförare m.fl.","kvinnor",8516,8806,9768,9873,10557
+"2432 Informatörer, kommunikatörer och PR-specialister","kvinnor",10423,10678,11401,12144,13187
+"2511 Systemanalytiker och IT-arkitekter m.fl.","kvinnor",2145,2333,2662,2959,5446
+"2512 Mjukvaru- och systemutvecklare m.fl.","kvinnor",13528,13787,14453,14773,14425
+"2513 Utvecklare inom spel och digitala media","kvinnor",357,295,305,420,501
+"2514 Systemtestare och testledare","kvinnor",1359,1392,1534,1934,2049
+"2515 Systemförvaltare m.fl.","kvinnor",1755,1907,1945,1837,1867
+"2516 IT-säkerhetsspecialister","kvinnor",267,266,235,308,326
+"2519 Övriga IT-specialister","kvinnor",3099,2934,3269,3802,4171
+"2611 Advokater","kvinnor",984,986,1086,1172,1329
+"2612 Domare","kvinnor",961,1007,1002,1062,1113
+"2613 Åklagare","kvinnor",642,649,614,605,580
+"2614 Affärs- och företagsjurister","kvinnor",2490,2596,2864,3304,3568
+"2615 Förvaltnings- och organisationsjurister","kvinnor",1810,1777,1954,2049,2241
+"2619 Övriga jurister","kvinnor",4296,4401,4621,4416,4403
+"2621 Museiintendenter m.fl.","kvinnor",1139,1147,1286,1314,1498
+"2622 Bibliotekarier och arkivarier","kvinnor",5287,5305,5595,5705,5646
+"2623 Arkeologer och specialister inom humaniora m.m.","kvinnor",566,589,620,652,650
+"2641 Författare m.fl.","kvinnor",481,492,524,586,598
+"2642 Journalister m.fl.","kvinnor",5794,5789,5779,5673,5723
+"2643 Översättare, tolkar och lingvister m.fl.","kvinnor",1166,1243,1391,1885,1776
+"2651 Bildkonstnärer m.fl.","kvinnor",231,254,272,272,294
+"2652 Musiker, sångare och kompositörer","kvinnor",2356,2402,2381,2367,2348
+"2653 Koreografer och dansare","kvinnor",158,166,195,209,215
+"2654 Regissörer och producenter av film, teater m.m.","kvinnor",610,582,719,978,1056
+"2655 Skådespelare","kvinnor",780,850,880,908,890
+"2661 Socialsekreterare","kvinnor",14785,15443,18813,19794,20291
+"2662 Kuratorer","kvinnor",7308,7390,7749,8226,8572
+"2663 Biståndsbedömare m.fl.","kvinnor",4463,4457,4737,4927,5101
+"2669 Övriga yrken inom socialt arbete","kvinnor",1763,1849,1512,1670,4849
+"2671 Präster","kvinnor",1300,1282,1324,1296,1293
+"2672 Diakoner","kvinnor",1131,1085,1036,1051,1022
+"3111 Ingenjörer och tekniker inom industri, logistik och produktionsplanering","kvinnor",1556,1488,1821,2047,2134
+"3112 Ingenjörer och tekniker inom bygg och anläggning","kvinnor",3358,3635,4061,4622,5629
+"3113 Ingenjörer och tekniker inom elektroteknik","kvinnor",3118,3392,3417,3169,3453
+"3114 Ingenjörer och tekniker inom maskinteknik","kvinnor",3059,2965,2924,3278,2963
+"3115 Ingenjörer och tekniker inom kemi och kemiteknik","kvinnor",842,853,1124,1233,1227
+"3116 Ingenjörer och tekniker inom gruvteknik och metallurgi","kvinnor",220,222,143,167,151
+"3117 GIS- och kartingenjörer","kvinnor",800,784,825,846,857
+"3119 Övriga ingenjörer och tekniker","kvinnor",3823,3625,3941,4303,4455
+"3121 Arbetsledare inom bygg, anläggning och gruva","kvinnor",965,1032,1118,1264,1419
+"3122 Arbetsledare inom tillverkning","kvinnor",1142,1184,1217,1281,1454
+"3151 Maskinbefäl","kvinnor",39,41,26,15,12
+"3152 Fartygsbefäl m.fl.","kvinnor",75,73,85,103,100
+"3153 Piloter m.fl.","kvinnor",119,117,114,122,127
+"3154 Flygledare","kvinnor",305,296,301,318,319
+"3155 Flygtekniker","kvinnor",16,16,48,59,56
+"3211 Tekniker, bilddiagnostik och medicinteknisk utrustning","kvinnor",298,324,360,428,517
+"3212 Biomedicinska analytiker m.fl.","kvinnor",8540,8395,8366,7978,7754
+"3213 Receptarier","kvinnor",3057,3027,3357,3210,3264
+"3214 Tandtekniker och ortopedingenjörer m.fl.","kvinnor",1516,1546,1569,1575,1549
+"3215 Laboratorieingenjörer","kvinnor",4323,4463,4491,4549,4807
+"3230 Terapeuter inom alternativmedicin","kvinnor",66,61,86,95,86
+"3240 Djursjukskötare m.fl.","kvinnor",1660,1797,1935,2255,2497
+"3250 Tandhygienister","kvinnor",3550,3578,3643,3642,3673
+"3311 Mäklare inom finans","kvinnor",368,354,352,257,226
+"3312 Banktjänstemän","kvinnor",15628,15397,15150,15072,14632
+"3313 Redovisningsekonomer","kvinnor",19301,18741,19742,20379,21065
+"3314 Skadereglerare och värderare","kvinnor",2866,2826,3016,3058,3162
+"3321 Försäkringssäljare och försäkringsrådgivare","kvinnor",5397,5412,5372,5309,5512
+"3322 Företagssäljare","kvinnor",26127,25309,23583,24021,24135
+"3323 Inköpare och upphandlare","kvinnor",7153,7544,7889,8287,8461
+"3324 Ordersamordnare m.fl.","kvinnor",7647,7846,7809,7888,8133
+"3331 Speditörer och transportmäklare","kvinnor",2509,2426,2341,2326,2271
+"3332 Evenemangs- och reseproducenter m.fl.","kvinnor",916,977,1166,1391,1566
+"3333 Arbetsförmedlare","kvinnor",9027,9455,10854,10771,6667
+"3334 Fastighetsmäklare","kvinnor",1863,1895,2205,2531,2615
+"3335 Fastighetsförvaltare","kvinnor",1811,1813,1901,2137,2322
+"3339 Övriga förmedlare","kvinnor",1331,1323,1398,1396,1454
+"3341 Gruppledare för kontorspersonal","kvinnor",2137,2377,3015,3483,3633
+"3342 Domstols- och juristsekreterare m.fl.","kvinnor",2182,2185,2172,2266,2227
+"3343 Chefssekreterare och VD-assistenter m.fl.","kvinnor",3101,3256,3506,3522,7775
+"3351 Tull- och kustbevakningstjänstemän","kvinnor",510,518,588,585,570
+"3352 Skattehandläggare","kvinnor",4348,4257,4145,3808,3853
+"3353 Socialförsäkringshandläggare","kvinnor",11437,11776,12902,11011,9123
+"3354 Säkerhetsinspektörer m.fl.","kvinnor",659,657,650,681,730
+"3355 Brandingenjörer och byggnadsinspektörer m.fl.","kvinnor",727,795,891,982,1079
+"3359 Övriga handläggare","kvinnor",12069,12010,12104,12433,12640
+"3360 Poliser","kvinnor",5388,5328,5381,5362,5591
+"3411 Behandlingsassistenter och socialpedagoger m.fl.","kvinnor",10981,11882,14230,13563,11633
+"3412 Pastorer m.fl.","kvinnor",240,230,360,376,376
+"3421 Professionella idrottsutövare","kvinnor",309,315,274,267,275
+"3422 Idrottstränare och instruktörer m.fl.","kvinnor",2001,2168,2960,3493,4745
+"3423 Fritidsledare m.fl.","kvinnor",7617,7996,8236,8207,8315
+"3424 Friskvårdskonsulenter och hälsopedagoger m.fl.","kvinnor",847,992,921,895,948
+"3431 Fotografer","kvinnor",940,890,939,973,944
+"3432 Inredare, dekoratörer och scenografer m.fl.","kvinnor",1642,2106,2317,1998,2050
+"3433 Inspicienter och scriptor m.fl.","kvinnor",694,664,725,764,739
+"3439 Övriga yrken inom kultur och underhållning","kvinnor",244,303,427,394,367
+"3441 Trafiklärare","kvinnor",682,679,659,583,596
+"3449 Övriga utbildare och instruktörer","kvinnor",1958,2085,2268,2557,2389
+"3451 Köksmästare och souschefer","kvinnor",430,443,461,485,548
+"3452 Storhushållsföreståndare","kvinnor",1258,1233,1213,1208,1173
+"3511 Drifttekniker, IT","kvinnor",1911,1855,1614,1504,1417
+"3512 Supporttekniker, IT","kvinnor",3784,3748,3987,3950,4000
+"3513 Systemadministratörer","kvinnor",914,933,1035,1150,1248
+"3514 Nätverks- och systemtekniker m.fl.","kvinnor",1292,1284,1275,1267,1205
+"3515 Webbmaster och webbadministratörer","kvinnor",837,956,1046,1086,1032
+"3521 Bild- och sändningstekniker","kvinnor",461,461,509,523,555
+"3522 Ljus-, ljud och scentekniker","kvinnor",370,392,372,383,407
+"4111 Ekonomiassistenter m.fl.","kvinnor",33541,33578,34130,33968,33657
+"4112 Löne- och personaladministratörer","kvinnor",12281,12193,12500,12472,13016
+"4113 Backofficepersonal m.fl.","kvinnor",955,1002,1308,1366,1388
+"4114 Marknads- och försäljningsassistenter","kvinnor",7049,7429,8562,8936,8814
+"4115 Inköps- och orderassistenter","kvinnor",5009,5096,5372,5292,5442
+"4116 Skolassistenter m.fl.","kvinnor",5570,5615,5181,5273,5466
+"4117 Medicinska sekreterare, vårdadministratörer m.fl.","kvinnor",17701,17421,17302,17274,17347
+"4119 Övriga kontorsassistenter och sekreterare","kvinnor",60014,59294,59989,58979,56502
+"4211 Croupierer och oddssättare m.fl.","kvinnor",420,461,407,521,869
+"4212 Inkasserare och pantlånare m.fl.","kvinnor",774,773,760,773,629
+"4221 Resesäljare och trafikassistenter m.fl.","kvinnor",5409,5416,5452,5228,5172
+"4222 Kundtjänstpersonal","kvinnor",10797,12689,15347,17931,18464
+"4223 Telefonister","kvinnor",5307,4756,3928,3424,3123
+"4224 Hotellreceptionister m.fl.","kvinnor",5580,6003,6340,6207,6413
+"4225 Kontorsreceptionister","kvinnor",11283,11875,11995,11430,11184
+"4226 Marknadsundersökare och intervjuare","kvinnor",439,449,603,556,520
+"4321 Arbetsledare inom lager och terminal","kvinnor",1275,1366,1159,1304,1395
+"4322 Lager- och terminalpersonal","kvinnor",15909,17000,16943,17576,19359
+"4323 Transportledare och transportsamordnare","kvinnor",2481,2451,2454,2532,2634
+"4410 Biblioteks- och arkivassistenter m.fl.","kvinnor",2566,2522,2523,2400,2405
+"4420 Brevbärare och postterminalarbetare","kvinnor",6935,6867,6290,6146,6094
+"4430 Förtroendevalda","kvinnor",252,243,383,437,415
+"5111 Kabinpersonal m.fl.","kvinnor",1738,1697,1847,1930,1990
+"5112 Tågvärdar och ombordansvariga m.fl.","kvinnor",2556,2534,2423,2501,2589
+"5113 Guider och reseledare","kvinnor",399,405,477,508,574
+"5120 Kockar och kallskänkor","kvinnor",20133,20744,20803,21144,21170
+"5131 Hovmästare och servitörer","kvinnor",11302,12715,12483,12857,12704
+"5132 Bartendrar","kvinnor",1828,1808,1438,2538,2787
+"5141 Frisörer","kvinnor",3834,4442,5713,5768,6028
+"5142 Hudterapeuter","kvinnor",894,974,1037,1045,1050
+"5143 Massörer och massageterapeuter","kvinnor",575,609,645,666,711
+"5144 Fotterapeuter","kvinnor",625,618,502,508,504
+"5149 Övriga skönhets- och kroppsterapeuter","kvinnor",502,571,663,761,925
+"5151 Städledare och husfruar","kvinnor",1619,1728,1766,1801,1877
+"5152 Fastighetsskötare","kvinnor",4477,5023,5460,5783,6477
+"5161 Begravnings- och krematoriepersonal","kvinnor",583,599,664,631,620
+"5169 Övrig servicepersonal","kvinnor",608,713,893,1045,1218
+"5221 Säljande butikschefer och avdelningschefer i butik","kvinnor",19698,15410,16293,14182,11476
+"5222 Butikssäljare, dagligvaror","kvinnor",48007,53114,52686,55824,55424
+"5223 Butikssäljare, fackhandel","kvinnor",51952,60745,62930,62154,66201
+"5224 Optikerassistenter","kvinnor",534,648,2303,1250,1081
+"5225 Bensinstationspersonal","kvinnor",3711,4077,2680,3304,3232
+"5226 Uthyrare","kvinnor",543,579,444,503,588
+"5227 Apotekstekniker","kvinnor",3404,3407,2676,2338,2201
+"5230 Kassapersonal m.fl.","kvinnor",10210,10831,10795,10752,9463
+"5241 Eventsäljare och butiksdemonstratörer m.fl.","kvinnor",642,749,868,1037,917
+"5242 Telefonförsäljare m.fl.","kvinnor",3115,3138,3128,3056,2738
+"5311 Barnskötare","kvinnor",69069,72740,75782,79122,80405
+"5312 Elevassistenter m.fl.","kvinnor",14252,16105,18747,20794,22506
+"5321 Undersköterskor, hemtjänst, hemsjukvård och äldreboende","kvinnor",126107,127105,127554,125255,123371
+"5322 Undersköterskor, habilitering","kvinnor",3592,3506,3166,3594,461
+"5323 Undersköterskor, vård- och specialavdelning","kvinnor",30778,31579,33012,33746,34354
+"5324 Undersköterskor, mottagning","kvinnor",5134,5452,5940,6399,6906
+"5325 Barnsköterskor","kvinnor",1481,1392,1425,1183,1123
+"5326 Ambulanssjukvårdare","kvinnor",153,156,173,174,181
+"5330 Vårdbiträden","kvinnor",63391,65040,61930,61269,58362
+"5341 Skötare","kvinnor",9658,10406,10046,9894,10936
+"5342 Vårdare, boendestödjare","kvinnor",41139,42065,45197,45824,49325
+"5343 Personliga assistenter","kvinnor",51467,54947,53604,51061,49360
+"5349 Övrig vård- och omsorgspersonal","kvinnor",5131,5613,7293,7050,6797
+"5350 Tandsköterskor","kvinnor",10133,9960,10210,10326,10358
+"5411 Brandmän","kvinnor",214,266,319,328,358
+"5412 Kriminalvårdare","kvinnor",2838,2809,2914,2995,3225
+"5413 Väktare och ordningsvakter","kvinnor",4437,4451,4383,4527,4854
+"5414 SOS-operatörer m.fl.","kvinnor",786,779,917,963,1010
+"5419 Övrig bevaknings- och säkerhetspersonal","kvinnor",3477,3630,3215,3108,2161
+"6111 Odlare av jordbruksväxter, frukt- och bär","kvinnor",210,248,236,206,205
+"6112 Trädgårdsodlare","kvinnor",1030,1161,1171,1205,1124
+"6113 Trädgårdsanläggare m.fl.","kvinnor",2993,3136,3213,3361,3554
+"6121 Uppfödare och skötare av lantbrukets husdjur","kvinnor",2775,3090,3140,3215,3262
+"6122 Uppfödare och skötare av sällskapsdjur","kvinnor",300,348,623,673,735
+"6129 Övriga djuruppfödare och djurskötare","kvinnor",633,751,797,907,880
+"6130 Växtodlare och djuruppfödare, blandad drift","kvinnor",970,1138,990,963,910
+"6210 Skogsarbetare","kvinnor",329,371,348,358,368
+"6221 Fiskodlare","kvinnor",29,21,25,27,23
+"6222 Fiskare","kvinnor",3,6,7,8,12
+"7111 Träarbetare, snickare m.fl.","kvinnor",524,567,502,565,601
+"7112 Murare m.fl.","kvinnor",186,190,183,190,187
+"7113 Betongarbetare","kvinnor",173,160,144,172,185
+"7114 Anläggningsarbetare","kvinnor",544,556,625,632,660
+"7115 Anläggningsdykare","kvinnor",4,3,4,5,7
+"7116 Ställningsbyggare","kvinnor",178,188,48,51,57
+"7119 Övriga byggnads- och anläggningsarbetare","kvinnor",462,491,423,447,571
+"7121 Takmontörer","kvinnor",32,36,37,41,40
+"7122 Golvläggare","kvinnor",53,56,57,45,60
+"7123 Isoleringsmontörer","kvinnor",38,36,42,32,40
+"7124 Glastekniker","kvinnor",93,83,103,112,113
+"7125 VVS-montörer m.fl.","kvinnor",222,205,213,258,290
+"7126 Kyl- och värmepumpstekniker m.fl.","kvinnor",99,100,43,45,41
+"7131 Målare","kvinnor",892,968,1024,1202,1399
+"7132 Lackerare och industrimålare","kvinnor",442,459,469,504,469
+"7133 Skorstensfejare","kvinnor",102,108,49,68,92
+"7134 Saneringsarbetare m.fl.","kvinnor",586,598,496,536,598
+"7211 Gjutare","kvinnor",88,83,74,62,77
+"7212 Svetsare och gasskärare","kvinnor",493,512,514,562,572
+"7213 Byggnads- och ventilationsplåtslagare","kvinnor",54,56,70,79,80
+"7214 Tunnplåtslagare","kvinnor",67,72,57,52,52
+"7215 Stålkonstruktionsmontörer och grovplåtsslagare","kvinnor",49,55,59,74,66
+"7221 Smeder","kvinnor",59,58,49,58,70
+"7222 Verktygsmakare","kvinnor",97,114,99,96,82
+"7223 Maskinställare och maskinoperatörer, metallarbete","kvinnor",6300,6660,7625,7726,5969
+"7224 Slipare m.fl.","kvinnor",170,167,157,161,158
+"7231 Motorfordonsmekaniker och fordonsreparatörer","kvinnor",1262,1306,956,978,1044
+"7232 Flygmekaniker m.fl.","kvinnor",28,34,25,22,23
+"7233 Underhållsmekaniker och maskinreparatörer","kvinnor",696,1305,1305,1333,1909
+"7311 Finmekaniker","kvinnor",251,249,325,298,304
+"7312 Guld- och silversmeder","kvinnor",141,142,160,158,167
+"7319 Musikinstrumentmakare och övriga konsthantverkare","kvinnor",199,212,270,245,244
+"7321 Prepresstekniker","kvinnor",794,743,711,690,657
+"7322 Tryckare","kvinnor",843,869,806,830,821
+"7323 Bokbindare m.fl.","kvinnor",417,427,386,397,359
+"7411 Installations- och serviceelektriker","kvinnor",498,557,566,632,706
+"7412 Industrielektriker","kvinnor",277,288,216,234,282
+"7413 Distributionselektriker","kvinnor",98,108,85,101,91
+"7420 Elektronikreparatörer och kommunikationselektriker m.fl.","kvinnor",394,432,425,418,435
+"7521 Manuella ytbehandlare, trä","kvinnor",18,14,23,21,18
+"7522 Fin-, inrednings- och möbelsnickare","kvinnor",220,245,255,245,251
+"7523 Maskinsnickare och maskinoperatörer, träindustri","kvinnor",816,872,837,814,860
+"7531 Skräddare och ateljésömmerskor m.fl.","kvinnor",520,694,848,741,741
+"7532 Sömmare","kvinnor",516,508,533,520,454
+"7533 Tapetserare","kvinnor",181,172,167,176,187
+"7534 Läderhantverkare och skomakare","kvinnor",80,79,89,96,96
+"7611 Slaktare och styckare m.fl.","kvinnor",530,488,524,481,438
+"7612 Bagare och konditorer","kvinnor",1310,1473,1725,1764,1831
+"7613 Provsmakare och kvalitetsbedömare","kvinnor",107,110,118,115,115
+"7619 Övriga livsmedelsförädlare","kvinnor",150,244,156,316,298
+"8111 Gruv- och stenbrottsarbetare","kvinnor",224,130,163,250,88
+"8112 Processoperatörer, stenkross- och malmförädlingsanläggning","kvinnor",135,219,204,119,380
+"8113 Brunnsborrare m.fl.","kvinnor",3,3,5,8,13
+"8114 Maskinoperatörer, cement-, sten- och betongvaror","kvinnor",43,48,63,83,104
+"8115 Bergssprängare","kvinnor",14,13,10,14,14
+"8116 Stenhuggare m.fl.","kvinnor",23,26,30,31,32
+"8121 Maskinoperatörer, ytbehandling","kvinnor",424,458,481,467,463
+"8122 Valsverksoperatörer","kvinnor",646,698,715,731,795
+"8129 Övriga maskin- och processoperatörer vid stål- och metallverk","kvinnor",1296,1094,1118,1129,1832
+"8131 Maskinoperatörer, farmaceutiska produkter","kvinnor",1946,1949,1720,1717,1751
+"8132 Maskinoperatörer, kemisktekniska och fotografiska produkter","kvinnor",402,388,451,392,380
+"8141 Maskinoperatörer, gummiindustri","kvinnor",719,689,603,573,613
+"8142 Maskinoperatörer, plastindustri","kvinnor",1949,1936,1945,2047,2122
+"8143 Maskinoperatörer, pappersvaruindustri","kvinnor",855,769,715,776,692
+"8151 Maskinoperatörer, blekning, färgning och tvättning","kvinnor",1597,1625,1623,1662,1656
+"8159 Övriga maskinoperatörer, textil-, skinn- och läderindustri","kvinnor",1289,1221,1151,1141,1136
+"8161 Maskinoperatörer, kött- och fiskberedningsindustri","kvinnor",1824,1818,1877,1663,1684
+"8162 Maskinoperatörer, mejeri","kvinnor",510,473,434,437,440
+"8163 Maskinoperatörer, kvarn-, bageri- och konfektyrindustri","kvinnor",1821,1790,1793,1653,1726
+"8169 Övriga maskinoperatörer inom livsmedelsindustri m.m.","kvinnor",1567,1584,1585,1584,1738
+"8171 Processoperatörer, pappersmassa","kvinnor",213,308,340,262,361
+"8172 Processoperatörer, papper","kvinnor",1045,1057,933,946,989
+"8173 Operatörer inom sågverk, hyvleri och plywood m.m.","kvinnor",674,679,661,686,764
+"8174 Maskinoperatörer inom ytbehandling, trä","kvinnor",95,92,87,92,94
+"8181 Maskinoperatörer, påfyllning, packning och märkning","kvinnor",1722,1763,1661,1619,1466
+"8189 Andra process- och maskinoperatörer","kvinnor",619,679,585,688,677
+"8191 Drifttekniker vid värme- och vattenverk","kvinnor",721,754,781,850,865
+"8192 Processövervakare, kemisk industri","kvinnor",822,831,829,963,945
+"8193 Processövervakare, metallproduktion","kvinnor",502,473,365,422,268
+"8199 Övriga drifttekniker och processövervakare","kvinnor",364,356,404,401,385
+"8211 Fordonsmontörer","kvinnor",2361,2004,829,1652,2574
+"8212 Montörer, elektrisk och elektronisk utrustning","kvinnor",3631,3643,3520,3770,3955
+"8213 Montörer, metall-, gummi- och plastprodukter","kvinnor",3285,3384,3371,3310,3498
+"8214 Montörer, träprodukter","kvinnor",965,962,1015,1081,1111
+"8219 Övriga montörer","kvinnor",1635,1689,2294,2644,3141
+"8311 Lokförare","kvinnor",678,675,733,744,793
+"8312 Bangårdspersonal","kvinnor",77,159,189,170,158
+"8321 Taxiförare m.fl.","kvinnor",1070,1084,1097,1062,1003
+"8329 Övriga bil-, motorcykel- och cykelförare","kvinnor",787,836,821,777,856
+"8331 Buss- och spårvagnsförare","kvinnor",3365,3355,3244,3250,3179
+"8332 Lastbilsförare m.fl.","kvinnor",3118,3284,3538,3663,3877
+"8341 Förare av jordbruks- och skogsmaskiner","kvinnor",214,222,167,169,168
+"8342 Anläggningsmaskinförare m.fl.","kvinnor",445,494,366,509,611
+"8343 Kranförare m.fl.","kvinnor",64,64,60,63,61
+"8344 Truckförare","kvinnor",1283,1583,1586,1737,1733
+"8350 Matroser och jungmän m.fl.","kvinnor",123,141,129,166,175
+"9111 Städare","kvinnor",52569,55850,54328,54448,54878
+"9119 Övrig hemservicepersonal m.fl.","kvinnor",1316,1273,2297,2825,3229
+"9120 Bilrekonditionerare, fönsterputsare och övriga rengöringsarbetare","kvinnor",508,677,1146,1536,1688
+"9210 Bärplockare och plantörer m.fl.","kvinnor",886,965,1066,975,1070
+"9310 Grovarbetare inom bygg och anläggning","kvinnor",186,223,254,258,299
+"9320 Handpaketerare och andra fabriksarbetare","kvinnor",4533,4418,4234,4359,4148
+"9331 Hamnarbetare","kvinnor",216,228,186,195,225
+"9332 Ramppersonal, flyttkarlar och varupåfyllare m.fl.","kvinnor",345,382,498,580,840
+"9411 Pizzabagare m.fl.","kvinnor",493,655,729,629,741
+"9412 Restaurang- och köksbiträden m.fl.","kvinnor",41371,44882,43619,42880,41784
+"9413 Kafé- och konditoribiträden","kvinnor",4565,6181,5649,5662,5294
+"9520 Torg- och marknadsförsäljare","kvinnor",39,46,51,52,64
+"9610 Renhållnings- och återvinningsarbetare","kvinnor",771,820,874,899,956
+"9621 Reklamutdelare och tidningsdistributörer","kvinnor",1773,1787,1531,1553,1413
+"9622 Vaktmästare m.fl.","kvinnor",1583,1711,1513,1368,1277
+"9629 Övriga servicearbetare","kvinnor",10461,10279,10689,10907,11108
+"0002 yrke okänt","kvinnor",109989,90991,90421,80080,75746
