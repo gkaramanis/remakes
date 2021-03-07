@@ -41,8 +41,9 @@ ggplot(yrken_topp) +
   geom_bump(aes(x = year, y = rank, group = yrke, color = yrke), size = 1.75) +
   geom_point(aes(x = year, y = rank, color = yrke), size = 2.5) +
   geom_text(data = yrken_topp %>% filter(year == 2019), aes(x = 2019, y = rank, label = paste0(1:15, ". ", str_wrap(yrke, 25)), color = yrke), hjust = 0, nudge_x = 0.1, family = "October Condensed Tamil Medium", lineheight = 0.9, size = 3.8) +
+  geom_text(data = yrken_topp %>% filter(year == 2014), aes(x = 2014, y = rank, label = paste0(1:15, ". ", str_wrap(yrke, 25)), color = yrke), hjust = 1, nudge_x = -0.1, family = "October Condensed Tamil Medium", lineheight = 0.9, size = 3.8) +
   scale_y_reverse() +
-  scale_x_continuous(limits = c(2014, 2020), breaks = 2014:2019) +
+  scale_x_continuous(limits = c(2013, 2020), breaks = 2014:2019) +
   scale_color_manual(values = pal) +
   coord_cartesian(clip = "off") +
   labs(
@@ -54,10 +55,10 @@ ggplot(yrken_topp) +
   theme(
     legend.position = "none",
     plot.background = element_rect(fill = "grey97", color = NA),
-    axis.text.x = element_text(color = "grey40", size = 14),
+    axis.text.x = element_text(color = "grey50", size = 18),
     plot.title = element_text(hjust = 0.5, size = 24, color = "grey10"),
     plot.subtitle = element_text(hjust = 0.5, size = 18, color = "grey20", margin = margin(5, 0, 20, 0)),
-    plot.caption = element_text(hjust = 0.5, size = 12, color = "grey30", margin = margin(20, 0, 0, 0)),
-    plot.margin = margin(20, 50, 20, 10)
+    plot.caption = element_text(hjust = 0.5, size = 12, color = "grey60", margin = margin(20, 0, 0, 0)),
+    plot.margin = margin(20, 60, 20, 60)
   ) +
-  ggsave(here::here("yrken2019", "plots", "yrken2014_2019.png"), dpi = 320, height = 11, width = 8)
+  ggsave(here::here("yrken2019", "plots", "yrken2014_2019.png"), dpi = 320, height = 10, width = 9)
