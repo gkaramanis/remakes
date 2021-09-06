@@ -60,5 +60,6 @@ ggplot(yrken_topp) +
     plot.subtitle = element_text(hjust = 0.5, size = 18, color = "grey20", margin = margin(5, 0, 20, 0)),
     plot.caption = element_text(hjust = 0.5, size = 12, color = "grey60", margin = margin(20, 0, 0, 0)),
     plot.margin = margin(20, 60, 20, 60)
-  ) +
-  ggsave(here::here("yrken2019", "plots", "yrken2014_2019.png"), dpi = 320, height = 10, width = 9)
+  ) 
+
+ggsave(here::here("yrken2019", "plots", "yrken2014_2019.png"), dpi = 320, height = 10, width = 9)
