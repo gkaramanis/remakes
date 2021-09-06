@@ -77,5 +77,5 @@ ggplot(winloss) +
     strip.text = element_blank()
   )
 
-ggsave(here("wwc-remake", "wwc.png"),
+ggsave(here("wwc-remake", "wwc-remake.png"),
          width = 6, height = 6, dpi = 300)
